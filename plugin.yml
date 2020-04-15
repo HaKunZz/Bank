@@ -1,0 +1,9 @@
+name: Bank
+main: HaKunZ\Bank
+api: [3.0.0]
+version: 1.1.4.0
+author: HaKunZz
+
+commands:
+ bank:
+  description: "Open Bank Menu By HaKunZz"
